@@ -2,6 +2,8 @@
 
 This project is a modern art gallery developed as part of a web development exercise. The gallery features a modern and responsive interface for displaying artwork.
 
+https://polixdev.github.io/Modern-Art-Gallery/index.html
+
 ##Features
 
 - Modern and minimalist design
