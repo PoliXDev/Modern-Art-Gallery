@@ -1,17 +1,8 @@
 # Modern Art Gallery
 
-This project is a modern art gallery developed as part of a web development exercise. The gallery features a modern and responsive interface for displaying artwork.
+This project is a modern art gallery developed as part of a web development exercise on Conqueblock Academy. The gallery features a modern and responsive interface for displaying artwork.
 
 https://polixdev.github.io/Modern-Art-Gallery/index.html
-
-##Features
-
-- Modern and minimalist design
-- Fully responsive for all devices
-- Intuitive navigation
-- Separate location page
-- Styles implemented with SASS
-- Built with Vite for fast development
 
 ##Technologies Used
 
