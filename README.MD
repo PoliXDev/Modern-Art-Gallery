@@ -1,3 +1,5 @@
+![capture](./capture.png)
+
 # Modern Art Gallery
 
 This project is a modern art gallery developed as part of a web development exercise on Conqueblock Academy. The gallery features a modern and responsive interface for displaying artwork.
