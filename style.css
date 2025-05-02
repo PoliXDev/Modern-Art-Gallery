@@ -450,7 +450,8 @@
     flex-direction: column;
     justify-content: center;
     flex: 1;
-    margin-bottom: 95px;
+    position: relative;
+    bottom: 6px;
 
   }
   .gallery__content--light {
